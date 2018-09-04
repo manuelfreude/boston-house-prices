@@ -1,4 +1,5 @@
 # Boston house price prediction using Decision Tree Regressor
+Project context: Udacity Machine Learning Nanodegree
 ## Python project summary
 
 - Explored data incl. min, max, mean, median, standard deviation, definition of r2 performance metric
